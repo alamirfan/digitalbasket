@@ -1,4 +1,4 @@
-#Digital Basket GUI
+#Digital Basket User Interface
 import serial
 from Tkinter import *
 
